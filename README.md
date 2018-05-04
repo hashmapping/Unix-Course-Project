@@ -1,6 +1,6 @@
-# Unix-Course-Project
+# Project Description
 
-##  Project No.1 list.cpp
+##  Project No.1 myls
 ### 实验要求:
 <pre>
 编程实现程序list.c，列表普通磁盘文件（不考虑目录和设备文件等），列出文件名和文件大小。
